@@ -1,0 +1,13 @@
+C:\Users\özhan\Desktop\sozluk\sozluk\bin\Debug\sozluk.exe.config
+C:\Users\özhan\Desktop\sozluk\sozluk\bin\Debug\sozluk.exe
+C:\Users\özhan\Desktop\sozluk\sozluk\bin\Debug\sozluk.pdb
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.csproj.AssemblyReference.cache
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.csproj.SuggestedBindingRedirects.cache
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.Form1.resources
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.Properties.Resources.resources
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.csproj.GenerateResource.cache
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.csproj.CoreCompileInputs.cache
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.exe
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.pdb
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.Form2.resources
+C:\Users\özhan\Desktop\sozluk\sozluk\obj\Debug\sozluk.Form3.resources
